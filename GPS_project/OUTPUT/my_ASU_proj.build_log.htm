@@ -1,0 +1,179 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\keil project\121\GPS_ASU\my_ASU_proj.uvproj
+Project File Date:  05/07/2025
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+compiling GPIO.c...
+MCAL\GPIO_DRIVER\GPIO.c(256): warning:  #1294-D: Old-style function initPort
+  static void initPort(port)
+MCAL\GPIO_DRIVER\GPIO.c(442): warning:  #63-D: shift count is too large
+          case GPIOA: return GETBIT(GPIO_PORTA_DATA_R, 0xff);
+MCAL\GPIO_DRIVER\GPIO.c(444): warning:  #63-D: shift count is too large
+          case GPIOB: return GETBIT(GPIO_PORTB_DATA_R, 0xff);
+MCAL\GPIO_DRIVER\GPIO.c(446): warning:  #63-D: shift count is too large
+          case GPIOC: return GETBIT(GPIO_PORTC_DATA_R, 0xff);
+MCAL\GPIO_DRIVER\GPIO.c(448): warning:  #63-D: shift count is too large
+          case GPIOD: return GETBIT(GPIO_PORTD_DATA_R, 0xff);
+MCAL\GPIO_DRIVER\GPIO.c: 5 warnings, 0 errors
+compiling UART_Program.c...
+MCAL\UART_DRIVER\UART_Interface.h(33): warning:  #1295-D: Deprecated declaration UART0_Init - give arg types
+  void UART0_Init();
+MCAL\UART_DRIVER\UART_Interface.h(34): warning:  #1295-D: Deprecated declaration UART0_ReadChar - give arg types
+  char UART0_ReadChar();
+MCAL\UART_DRIVER\UART_Interface.h(35): warning:  #1295-D: Deprecated declaration UART0_ReadString - give arg types
+  char *UART0_ReadString();
+MCAL\UART_DRIVER\UART_Program.c(73): warning:  #1-D: last line of file ends without a newline
+  }
+MCAL\UART_DRIVER\UART_Program.c: 4 warnings, 0 errors
+compiling SYSTICK_MAIN.c...
+MCAL\SYSTICK_DRIVER\SYSTICK_HEADER.h(35): warning:  #1295-D: Deprecated declaration SysTick_Init - give arg types
+  void SysTick_Init();
+MCAL\SYSTICK_DRIVER\SYSTICK_HEADER.h(39): warning:  #1-D: last line of file ends without a newline
+  #endif
+MCAL\SYSTICK_DRIVER\SYSTICK_MAIN.c(70): warning:  #1-D: last line of file ends without a newline
+  } 
+MCAL\SYSTICK_DRIVER\SYSTICK_MAIN.c: 3 warnings, 0 errors
+compiling main.c...
+application\../MCAL/UART_DRIVER/UART_Interface.h(33): warning:  #1295-D: Deprecated declaration UART0_Init - give arg types
+  void UART0_Init();
+application\../MCAL/UART_DRIVER/UART_Interface.h(34): warning:  #1295-D: Deprecated declaration UART0_ReadChar - give arg types
+  char UART0_ReadChar();
+application\../MCAL/UART_DRIVER/UART_Interface.h(35): warning:  #1295-D: Deprecated declaration UART0_ReadString - give arg types
+  char *UART0_ReadString();
+application\../MCAL/SYSTICK_DRIVER/SYSTICK_HEADER.h(7): warning:  #47-D: incompatible redefinition of macro "SYSCTL_RCC_R" (declared at line 5 of "application\../MCAL/UART_DRIVER/UART_Interface.h")
+  #define SYSCTL_RCC_R        (*((volatile uint32_t *)0x400FE060))
+application\../MCAL/SYSTICK_DRIVER/SYSTICK_HEADER.h(8): warning:  #47-D: incompatible redefinition of macro "SYSCTL_RCC2_R" (declared at line 6 of "application\../MCAL/UART_DRIVER/UART_Interface.h")
+  #define SYSCTL_RCC2_R       (*((volatile uint32_t *)0x400FE070))
+application\../MCAL/SYSTICK_DRIVER/SYSTICK_HEADER.h(9): warning:  #47-D: incompatible redefinition of macro "SYSCTL_RIS_R" (declared at line 7 of "application\../MCAL/UART_DRIVER/UART_Interface.h")
+  #define SYSCTL_RIS_R        (*((volatile uint32_t *)0x400FE050))
+application\../MCAL/SYSTICK_DRIVER/SYSTICK_HEADER.h(35): warning:  #1295-D: Deprecated declaration SysTick_Init - give arg types
+  void SysTick_Init();
+application\../MCAL/SYSTICK_DRIVER/SYSTICK_HEADER.h(39): warning:  #1-D: last line of file ends without a newline
+  #endif
+application\../HAL/LCD_DRIVER/LCD_CONFIG.h(24): warning:  #1-D: last line of file ends without a newline
+  #endif
+application\../HAL/LCD_DRIVER/LCD_HELPER.h(8): warning:  #1295-D: Deprecated declaration Send_Enable_Pulse - give arg types
+  static void Send_Enable_Pulse();
+application\../HAL/LCD_DRIVER/LCD_HEADER.h(11): warning:  #1295-D: Deprecated declaration LCD_Port_init - give arg types
+  void LCD_Port_init();
+application\../HAL/LCD_DRIVER/LCD_HEADER.h(14): warning:  #1295-D: Deprecated declaration LCD_Init - give arg types
+  void LCD_Init();
+application\../HAL/LCD_DRIVER/LCD_HEADER.h(19): warning:  #1295-D: Deprecated declaration LCD_Clear - give arg types
+  void LCD_Clear();
+application\main.c(15): warning:  #69-D: integer conversion resulted in truncation
+      char x=1000000;
+application\main.c(37): warning:  #167-D: argument of type "U_CHAR *" is incompatible with parameter of type "char *restrict"
+      strcpy(HALL_C.name , "HALL C");
+application\main.c(43): warning:  #167-D: argument of type "U_CHAR *" is incompatible with parameter of type "char *restrict"
+      strcpy(HALL_A.name , "HALL A");
+application\main.c(54): warning:  #167-D: argument of type "U_CHAR *" is incompatible with parameter of type "char *restrict"
+      strcpy(CREDIT_BUILDING.name , "CREDIT BUILDING");
+application\main.c(61): warning:  #167-D: argument of type "U_CHAR *" is incompatible with parameter of type "char *restrict"
+      strcpy(LOBAN.name , "LOBAN");
+application\main.c(68): warning:  #167-D: argument of type "U_CHAR *" is incompatible with parameter of type "char *restrict"
+      strcpy(OLD_BUILDING.name , "OLD BUILDING");
+application\main.c(15): warning:  #177-D: variable "x" was declared but never referenced
+      char x=1000000;
+application\main.c(16): warning:  #177-D: variable "buffer" was declared but never referenced
+      char buffer[20];
+application\main.c(17): warning:  #177-D: variable "lat" was declared but never referenced
+      float lat = 0;
+application\main.c(18): warning:  #177-D: variable "lon" was declared but never referenced
+      float lon = 0;
+application\main.c(148): warning:  #1-D: last line of file ends without a newline
+  //$GPRMC,192734.00,,A,,3003.85283,,N,,03116.74838,,E,,0.440,,123.344,070525,,,A*7E
+application\main.c: 24 warnings, 0 errors
+assembling startup_TM4C123.s...
+compiling GPS_MAIN.c...
+HAL\GPS_INTERFACE\../../MCAL/UART_DRIVER/UART_Interface.h(33): warning:  #1295-D: Deprecated declaration UART0_Init - give arg types
+  void UART0_Init();
+HAL\GPS_INTERFACE\../../MCAL/UART_DRIVER/UART_Interface.h(34): warning:  #1295-D: Deprecated declaration UART0_ReadChar - give arg types
+  char UART0_ReadChar();
+HAL\GPS_INTERFACE\../../MCAL/UART_DRIVER/UART_Interface.h(35): warning:  #1295-D: Deprecated declaration UART0_ReadString - give arg types
+  char *UART0_ReadString();
+HAL\GPS_INTERFACE\GPS_MAIN.c(125): warning:  #167-D: argument of type "const U_CHAR *" is incompatible with parameter of type "const char *"
+      lat1 = To_Degrees(stringToFloatManual(point1->latitude));
+HAL\GPS_INTERFACE\GPS_MAIN.c(128): warning:  #167-D: argument of type "const U_CHAR *" is incompatible with parameter of type "const char *"
+      lon1 = To_Degrees(stringToFloatManual(point1->longitude));
+HAL\GPS_INTERFACE\GPS_MAIN.c(147): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+      lat1 = To_Radians(lat1);
+HAL\GPS_INTERFACE\GPS_MAIN.c(148): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+      lon1 = To_Radians(lon1);
+HAL\GPS_INTERFACE\GPS_MAIN.c(149): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+      lat2 = To_Radians(lat2);
+HAL\GPS_INTERFACE\GPS_MAIN.c(150): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+      lon2 = To_Radians(lon2);
+HAL\GPS_INTERFACE\GPS_MAIN.c(111): warning:  #177-D: variable "buffer" was declared but never referenced
+      char buffer[32];  // Sufficient size for float conversion
+HAL\GPS_INTERFACE\GPS_MAIN.c(238): warning:  #167-D: argument of type "U_CHAR *" is incompatible with parameter of type "char *restrict"
+      strcpy(data->latitude, data->buffer);
+HAL\GPS_INTERFACE\GPS_MAIN.c(238): warning:  #167-D: argument of type "U_CHAR *" is incompatible with parameter of type "const char *restrict"
+      strcpy(data->latitude, data->buffer);
+HAL\GPS_INTERFACE\GPS_MAIN.c(247): warning:  #167-D: argument of type "U_CHAR *" is incompatible with parameter of type "char *restrict"
+      strcpy(data->longitude, data->buffer);
+HAL\GPS_INTERFACE\GPS_MAIN.c(247): warning:  #167-D: argument of type "U_CHAR *" is incompatible with parameter of type "const char *restrict"
+      strcpy(data->longitude, data->buffer);
+HAL\GPS_INTERFACE\GPS_MAIN.c(256): warning:  #167-D: argument of type "U_CHAR *" is incompatible with parameter of type "char *restrict"
+      strcpy(data->speed, data->buffer);
+HAL\GPS_INTERFACE\GPS_MAIN.c(256): warning:  #167-D: argument of type "U_CHAR *" is incompatible with parameter of type "const char *restrict"
+      strcpy(data->speed, data->buffer);
+HAL\GPS_INTERFACE\GPS_MAIN.c(197): warning:  #177-D: variable "field" was declared but never referenced
+      U_CHAR field = 0;
+HAL\GPS_INTERFACE\GPS_MAIN.c: 17 warnings, 0 errors
+compiling LED_MAIN.c...
+compiling LCD_MAIN.c...
+HAL\LCD_DRIVER\../../MCAL/SYSTICK_DRIVER/SYSTICK_HEADER.h(35): warning:  #1295-D: Deprecated declaration SysTick_Init - give arg types
+  void SysTick_Init();
+HAL\LCD_DRIVER\../../MCAL/SYSTICK_DRIVER/SYSTICK_HEADER.h(39): warning:  #1-D: last line of file ends without a newline
+  #endif
+HAL\LCD_DRIVER\LCD_CONFIG.h(24): warning:  #1-D: last line of file ends without a newline
+  #endif
+HAL\LCD_DRIVER\LCD_HELPER.h(8): warning:  #1295-D: Deprecated declaration Send_Enable_Pulse - give arg types
+  static void Send_Enable_Pulse();
+HAL\LCD_DRIVER\LCD_HEADER.h(11): warning:  #1295-D: Deprecated declaration LCD_Port_init - give arg types
+  void LCD_Port_init();
+HAL\LCD_DRIVER\LCD_HEADER.h(14): warning:  #1295-D: Deprecated declaration LCD_Init - give arg types
+  void LCD_Init();
+HAL\LCD_DRIVER\LCD_HEADER.h(19): warning:  #1295-D: Deprecated declaration LCD_Clear - give arg types
+  void LCD_Clear();
+HAL\LCD_DRIVER\LCD_MAIN.c(253): warning:  #1-D: last line of file ends without a newline
+  }
+HAL\LCD_DRIVER\LCD_MAIN.c: 8 warnings, 0 errors
+linking...
+Program Size: Code=9780 RO-data=668 RW-data=0 ZI-data=632  
+".\OUTPUT\my_ASU_proj.axf" - 0 Error(s), 61 Warning(s).
+Load "D:\\keil project\\121\\GPS_ASU\\OUTPUT\\my_ASU_proj.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+</pre>
+</body>
+</html>
+rget DLL has been cancelled
+oj.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Connection failed!, error code=&d
+Error: Flash Download failed  -  Target DLL has been cancelled
+S_ASU\\OUTPUT\\my_ASU_proj.axf" 
+Connecting: Mode=JTAG, Speed=1000000Hz
+Erase Done.
+Programming Done.
+Verify OK.
+ning:  #1-D: last line of file ends without a newline
+  }
+HAL\LCD_DRIVER\LCD_MAIN.c: 8 warnings, 0 errors
+".\OUTPUT\my_ASU_proj.axf" - 2 Error(s), 64 Warning(s).
+Target not created
+Load "D:\\keil project\\121\\GPS_ASU\\OUTPUT\\my_ASU_proj.axf" 
+_____^
+*** error 56: cannot open file
+Error: Flash Download failed  -  Could not load file 'D:\keil project\121\GPS_ASU\OUTPUT\my_ASU_proj.axf'
+
+Programming Done.
+Verify OK.

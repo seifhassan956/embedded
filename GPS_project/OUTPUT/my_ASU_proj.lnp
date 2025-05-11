@@ -1,0 +1,13 @@
+--cpu Cortex-M4.fp
+".\output\gpio.o"
+".\output\uart_program.o"
+".\output\systick_main.o"
+".\output\main.o"
+".\output\startup_tm4c123.o"
+".\output\gps_main.o"
+".\output\led_main.o"
+".\output\lcd_main.o"
+--strict --scatter ".\OUTPUT\my_ASU_proj.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\my_ASU_proj.map" -o .\OUTPUT\my_ASU_proj.axf

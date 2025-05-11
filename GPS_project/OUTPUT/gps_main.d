@@ -1,0 +1,9 @@
+.\output\gps_main.o: HAL\GPS_INTERFACE\GPS_MAIN.c
+.\output\gps_main.o: HAL\GPS_INTERFACE\../../SERVICES/BITMATH.h
+.\output\gps_main.o: HAL\GPS_INTERFACE\../../MCAL/GPIO_DRIVER/GPIO_INT.h
+.\output\gps_main.o: HAL\GPS_INTERFACE\../../MCAL/UART_DRIVER/UART_Interface.h
+.\output\gps_main.o: HAL\GPS_INTERFACE\../../HAL/LED_DRIVER/LED_INT.h
+.\output\gps_main.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\output\gps_main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\output\gps_main.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\output\gps_main.o: HAL\GPS_INTERFACE\GPS_HEADER.h
