@@ -5,7 +5,7 @@
 #include "UART_Interface.h"
 
 void UART0_Init() {
-    // 1. Configure PLL for 80MHz (unchanged from your code)
+    // 1. Configure PLL for 80MHz
     SYSCTL_RCC2_R |= 0x80000000;
     SYSCTL_RCC2_R |= 0x00000800;
     SYSCTL_RCC_R = (SYSCTL_RCC_R & ~0x000007C0) | 0x00000540;
