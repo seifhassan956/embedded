@@ -1,0 +1,821 @@
+Archive member included because of file (symbol)
+
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              ./HAL/MPU_INTERFACE/MPU.o (__subsf3)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+                              ./HAL/MPU_INTERFACE/MPU.o (atan2)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o) (atan)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              ./MCAL/DIO/DIO_prog.o (__ltsf2)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              ./HAL/MPU_INTERFACE/MPU.o (__divsf3)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              ./MCAL/DIO/DIO_prog.o (__fixunssfsi)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              ./HAL/LCD_interface/LCD_MAIN.o (__floatunsisf)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o) (__fp_powser)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              ./MCAL/DIO/DIO_prog.o (__gtsf2)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(inverse.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o) (inverse)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              ./MCAL/DIO/DIO_prog.o (__mulsf3)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o) (__mulsf3x)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o)
+                              ./HAL/MPU_INTERFACE/MPU.o (sqrt)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(square.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o) (square)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o) (__fp_mpack)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o) (__fp_norm2)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              ./MCAL/UART_DRIVER/USART_PROG.o (__udivmodhi4)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                              ./MCAL/DIO/DIO_prog.o (__divmodhi4)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./MCAL/Timer_Driver/timer0_prog.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+TIMER0_PF_C2C       0x2               ./MCAL/Timer_Driver/timer0_prog.o
+TIMER0_PF           0x2               ./MCAL/Timer_Driver/timer0_prog.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./MCAL/interrupt/interrupt_main.o
+LOAD ./MCAL/UART_DRIVER/USART_PROG.o
+LOAD ./MCAL/Timer_Driver/timer0_prog.o
+LOAD ./MCAL/I2C_DRIVER/I2C.o
+LOAD ./MCAL/DIO/DIO_prog.o
+LOAD ./HAL/MPU_INTERFACE/MPU.o
+LOAD ./HAL/LCD_interface/LCD_MAIN.o
+LOAD ./HAL/BT/Bluetooth.o
+LOAD ./HAL/BT/uart_main.o
+LOAD ./APP/MAIN.o
+LOAD e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a
+LOAD e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2a74
+ *(.vectors)
+ .vectors       0x00000000       0x54 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_fplib
+                0x00000054       0x2d e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+ *(.progmem*)
+                0x00000082                . = ALIGN (0x2)
+ *fill*         0x00000081        0x1 00
+                0x00000082                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000082        0x0 linker stubs
+ *(.trampolines*)
+                0x00000082                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000082                __ctors_start = .
+ *(.ctors)
+                0x00000082                __ctors_end = .
+                0x00000082                __dtors_start = .
+ *(.dtors)
+                0x00000082                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000082        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000082                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000082        0xc e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000008e       0x10 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x0000008e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000009e        0x8 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x000000a6        0x4 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x000000a6                __vector_1
+                0x000000a6                __vector_12
+                0x000000a6                __bad_interrupt
+                0x000000a6                __vector_6
+                0x000000a6                __vector_3
+                0x000000a6                __vector_13
+                0x000000a6                __vector_17
+                0x000000a6                __vector_19
+                0x000000a6                __vector_7
+                0x000000a6                __vector_5
+                0x000000a6                __vector_4
+                0x000000a6                __vector_9
+                0x000000a6                __vector_2
+                0x000000a6                __vector_15
+                0x000000a6                __vector_8
+                0x000000a6                __vector_14
+                0x000000a6                __vector_16
+                0x000000a6                __vector_18
+                0x000000a6                __vector_20
+ .text          0x000000aa        0x0 ./MCAL/interrupt/interrupt_main.o
+ .text          0x000000aa        0x0 ./MCAL/UART_DRIVER/USART_PROG.o
+ .text          0x000000aa        0x0 ./MCAL/Timer_Driver/timer0_prog.o
+ .text          0x000000aa        0x0 ./MCAL/I2C_DRIVER/I2C.o
+ .text          0x000000aa        0x0 ./MCAL/DIO/DIO_prog.o
+ .text          0x000000aa        0x0 ./HAL/MPU_INTERFACE/MPU.o
+ .text          0x000000aa        0x0 ./HAL/LCD_interface/LCD_MAIN.o
+ .text          0x000000aa        0x0 ./HAL/BT/Bluetooth.o
+ .text          0x000000aa        0x0 ./HAL/BT/uart_main.o
+ .text          0x000000aa        0x0 ./APP/MAIN.o
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(inverse.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(square.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x000000aa        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x000000aa                . = ALIGN (0x2)
+ *(.text.*)
+ .text.GIE_voidEnableGlobleIneterrupt
+                0x000000aa       0x10 ./MCAL/interrupt/interrupt_main.o
+                0x000000aa                GIE_voidEnableGlobleIneterrupt
+ .text.GIE_voidDisnableGlobleIneterrupt
+                0x000000ba       0x10 ./MCAL/interrupt/interrupt_main.o
+                0x000000ba                GIE_voidDisnableGlobleIneterrupt
+ .text.USART_voidInit
+                0x000000ca       0x38 ./MCAL/UART_DRIVER/USART_PROG.o
+                0x000000ca                USART_voidInit
+ .text.USART_voidReadData
+                0x00000102       0x1e ./MCAL/UART_DRIVER/USART_PROG.o
+                0x00000102                USART_voidReadData
+ .text.USART_voidSendData
+                0x00000120       0x2e ./MCAL/UART_DRIVER/USART_PROG.o
+                0x00000120                USART_voidSendData
+ .text.USART_voidSendString
+                0x0000014e       0x3a ./MCAL/UART_DRIVER/USART_PROG.o
+                0x0000014e                USART_voidSendString
+ .text.USART_voidReadString
+                0x00000188       0x86 ./MCAL/UART_DRIVER/USART_PROG.o
+                0x00000188                USART_voidReadString
+ .text.USART_voidSendNumber
+                0x0000020e       0xa4 ./MCAL/UART_DRIVER/USART_PROG.o
+                0x0000020e                USART_voidSendNumber
+ .text.TIMER0_voidInit
+                0x000002b2       0x94 ./MCAL/Timer_Driver/timer0_prog.o
+                0x000002b2                TIMER0_voidInit
+ .text.TIMER0_PWM_INIT
+                0x00000346       0xc0 ./MCAL/Timer_Driver/timer0_prog.o
+                0x00000346                TIMER0_PWM_INIT
+ .text.TIMER0_voidSetPreload
+                0x00000406       0x1c ./MCAL/Timer_Driver/timer0_prog.o
+                0x00000406                TIMER0_voidSetPreload
+ .text.TIMER0_voidSetCallBack
+                0x00000422       0x24 ./MCAL/Timer_Driver/timer0_prog.o
+                0x00000422                TIMER0_voidSetCallBack
+ .text.TIMER0_voidSetOCR_VAL
+                0x00000446       0x1c ./MCAL/Timer_Driver/timer0_prog.o
+                0x00000446                TIMER0_voidSetOCR_VAL
+ .text.TIMER0_C2C_Action
+                0x00000462       0x44 ./MCAL/Timer_Driver/timer0_prog.o
+                0x00000462                TIMER0_C2C_Action
+ .text.TIMER0_voidSetCallBack_C2C
+                0x000004a6       0x24 ./MCAL/Timer_Driver/timer0_prog.o
+                0x000004a6                TIMER0_voidSetCallBack_C2C
+ .text.__vector_11
+                0x000004ca       0x66 ./MCAL/Timer_Driver/timer0_prog.o
+                0x000004ca                __vector_11
+ .text.__vector_10
+                0x00000530       0x66 ./MCAL/Timer_Driver/timer0_prog.o
+                0x00000530                __vector_10
+ .text.I2C_Init
+                0x00000596       0x38 ./MCAL/I2C_DRIVER/I2C.o
+                0x00000596                I2C_Init
+ .text.I2C_Start
+                0x000005ce       0x82 ./MCAL/I2C_DRIVER/I2C.o
+                0x000005ce                I2C_Start
+ .text.I2C_Repeated_Start
+                0x00000650       0x82 ./MCAL/I2C_DRIVER/I2C.o
+                0x00000650                I2C_Repeated_Start
+ .text.I2C_Write
+                0x000006d2       0x5a ./MCAL/I2C_DRIVER/I2C.o
+                0x000006d2                I2C_Write
+ .text.I2C_Read_Ack
+                0x0000072c       0x26 ./MCAL/I2C_DRIVER/I2C.o
+                0x0000072c                I2C_Read_Ack
+ .text.I2C_Read_Nack
+                0x00000752       0x26 ./MCAL/I2C_DRIVER/I2C.o
+                0x00000752                I2C_Read_Nack
+ .text.I2C_Stop
+                0x00000778       0x28 ./MCAL/I2C_DRIVER/I2C.o
+                0x00000778                I2C_Stop
+ .text.I2C_Slave_Init
+                0x000007a0       0x24 ./MCAL/I2C_DRIVER/I2C.o
+                0x000007a0                I2C_Slave_Init
+ .text.I2C_Slave_Listen
+                0x000007c4       0x5c ./MCAL/I2C_DRIVER/I2C.o
+                0x000007c4                I2C_Slave_Listen
+ .text.I2C_Slave_Transmit
+                0x00000820       0x8e ./MCAL/I2C_DRIVER/I2C.o
+                0x00000820                I2C_Slave_Transmit
+ .text.I2C_Slave_Receive
+                0x000008ae       0x7c ./MCAL/I2C_DRIVER/I2C.o
+                0x000008ae                I2C_Slave_Receive
+ .text.DIO_voidSetPinDirection
+                0x0000092a      0x208 ./MCAL/DIO/DIO_prog.o
+                0x0000092a                DIO_voidSetPinDirection
+ .text.DIO_voidSetPinValue
+                0x00000b32      0x1f8 ./MCAL/DIO/DIO_prog.o
+                0x00000b32                DIO_voidSetPinValue
+ .text.DIO_u8GetPinVal
+                0x00000d2a       0xf2 ./MCAL/DIO/DIO_prog.o
+                0x00000d2a                DIO_u8GetPinVal
+ .text.DIO_voidSetPortDirection
+                0x00000e1c      0x102 ./MCAL/DIO/DIO_prog.o
+                0x00000e1c                DIO_voidSetPortDirection
+ .text.DIO_voidEnablePullUp
+                0x00000f1e       0xfa ./MCAL/DIO/DIO_prog.o
+                0x00000f1e                DIO_voidEnablePullUp
+ .text.DIO_voidSetPortValue
+                0x00001018      0x166 ./MCAL/DIO/DIO_prog.o
+                0x00001018                DIO_voidSetPortValue
+ .text.DIO_u8GetPortVal
+                0x0000117e       0x88 ./MCAL/DIO/DIO_prog.o
+                0x0000117e                DIO_u8GetPortVal
+ .text.binary_counter
+                0x00001206      0x250 ./MCAL/DIO/DIO_prog.o
+                0x00001206                binary_counter
+ .text.MPU6050_Init
+                0x00001456       0x96 ./HAL/MPU_INTERFACE/MPU.o
+                0x00001456                MPU6050_Init
+ .text.MPU6050_Read
+                0x000014ec      0x2dc ./HAL/MPU_INTERFACE/MPU.o
+                0x000014ec                MPU6050_Read
+ .text.calculate_angles
+                0x000017c8      0x272 ./HAL/MPU_INTERFACE/MPU.o
+                0x000017c8                calculate_angles
+ .text.Set_Half_Port
+                0x00001a3a       0x60 ./HAL/LCD_interface/LCD_MAIN.o
+ .text.Send_Enable_Pulse
+                0x00001a9a      0x11e ./HAL/LCD_interface/LCD_MAIN.o
+ .text.CLCD_VoidWriteData
+                0x00001bb8       0x40 ./HAL/LCD_interface/LCD_MAIN.o
+                0x00001bb8                CLCD_VoidWriteData
+ .text.CLCD_VoidWriteINS
+                0x00001bf8       0x40 ./HAL/LCD_interface/LCD_MAIN.o
+                0x00001bf8                CLCD_VoidWriteINS
+ .text.CLCD_VoidInit
+                0x00001c38      0x134 ./HAL/LCD_interface/LCD_MAIN.o
+                0x00001c38                CLCD_VoidInit
+ .text.CLCD_VoidWriteString
+                0x00001d6c       0x3e ./HAL/LCD_interface/LCD_MAIN.o
+                0x00001d6c                CLCD_VoidWriteString
+ .text.CLCD_VoidWriteNumber
+                0x00001daa       0xa6 ./HAL/LCD_interface/LCD_MAIN.o
+                0x00001daa                CLCD_VoidWriteNumber
+ .text.CLCD_GoTo_XY
+                0x00001e50       0x48 ./HAL/LCD_interface/LCD_MAIN.o
+                0x00001e50                CLCD_GoTo_XY
+ .text.CLCD_Void_WriteSpecialChar
+                0x00001e98       0x84 ./HAL/LCD_interface/LCD_MAIN.o
+                0x00001e98                CLCD_Void_WriteSpecialChar
+ .text.LCD_VoidWriteFloat
+                0x00001f1c      0x100 ./HAL/LCD_interface/LCD_MAIN.o
+                0x00001f1c                LCD_VoidWriteFloat
+ .text.CLCD_CLR
+                0x0000201c       0x14 ./HAL/LCD_interface/LCD_MAIN.o
+                0x0000201c                CLCD_CLR
+ .text.Bluetooth_Init
+                0x00002030        0xe ./HAL/BT/Bluetooth.o
+                0x00002030                Bluetooth_Init
+ .text.UART_Init
+                0x0000203e       0x42 ./HAL/BT/uart_main.o
+                0x0000203e                UART_Init
+ .text.UART_SendChar
+                0x00002080       0x2e ./HAL/BT/uart_main.o
+                0x00002080                UART_SendChar
+ .text.UART_ReceiveChar
+                0x000020ae       0x1e ./HAL/BT/uart_main.o
+                0x000020ae                UART_ReceiveChar
+ .text.UART_SendString
+                0x000020cc       0x38 ./HAL/BT/uart_main.o
+                0x000020cc                UART_SendString
+ .text.angle_to_pwm
+                0x00002104       0xd4 ./APP/MAIN.o
+                0x00002104                angle_to_pwm
+ .text.get_direction
+                0x000021d8       0xba ./APP/MAIN.o
+                0x000021d8                get_direction
+ .text.main     0x00002292      0x194 ./APP/MAIN.o
+                0x00002292                main
+ .text.avr-libc.fplib
+                0x00002426        0xa e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x00002426                __subsf3
+                0x00002428                __addsf3
+ .text.avr-libc.fplib
+                0x00002430       0xc0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x0000244a                __addsf3x
+ .text.avr-libc.fplib
+                0x000024f0       0x74 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+                0x0000250e                atan2
+ .text.avr-libc.fplib
+                0x00002564       0x50 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+                0x00002564                atan
+ .text.avr-libc.fplib
+                0x000025b4        0x8 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x000025b4                __lesf2
+                0x000025b4                __nesf2
+                0x000025b4                __eqsf2
+                0x000025b4                __cmpsf2
+                0x000025b4                __ltsf2
+ .text.avr-libc.fplib
+                0x000025bc        0x4 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x000025bc                __divsf3
+ .text.avr-libc.fplib
+                0x000025c0       0xcc e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x000025d6                __divsf3x
+                0x000025da                __divsf3_pse
+ .text.avr-libc.fplib
+                0x0000268c       0x58 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x0000268c                __fixunssfsi
+ .text.avr-libc.fplib
+                0x000026e4       0x7a e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x000026e8                __floatsisf
+                0x000026e4                __floatunsisf
+ .text.avr-libc.fplib
+                0x0000275e       0x48 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x0000275e                __fp_cmp
+ .text.avr-libc.fplib
+                0x000027a6        0xc e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x000027a6                __fp_inf
+ .text.avr-libc.fplib
+                0x000027b2        0x6 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x000027b2                __fp_nan
+ .text.avr-libc.fplib
+                0x000027b8       0x4a e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+                0x000027b8                __fp_powser
+ .text.avr-libc.fplib
+                0x00002802        0xe e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00002802                __fp_pscA
+ .text.avr-libc.fplib
+                0x00002810        0xe e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00002810                __fp_pscB
+ .text.avr-libc.fplib
+                0x0000281e       0x22 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x0000281e                __fp_round
+ .text.avr-libc.fplib
+                0x00002840       0x44 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00002840                __fp_split3
+                0x00002850                __fp_splitA
+ .text.avr-libc.fplib
+                0x00002884        0xe e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x00002884                __fp_zero
+                0x00002886                __fp_szero
+ .text.avr-libc.fplib
+                0x00002892        0x8 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x00002892                __gtsf2
+                0x00002892                __gesf2
+ .text.avr-libc.fplib
+                0x0000289a        0xe e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(inverse.o)
+                0x0000289a                inverse
+ .text.avr-libc.fplib
+                0x000028a8        0x4 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x000028a8                __mulsf3
+ .text.avr-libc.fplib
+                0x000028ac       0xc2 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x000028c4                __mulsf3_pse
+                0x000028c0                __mulsf3x
+ .text.avr-libc.fplib
+                0x0000296e       0x84 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o)
+                0x00002976                sqrt
+ .text.avr-libc.fplib
+                0x000029f2        0x6 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(square.o)
+                0x000029f2                square
+ .text.avr-libc.fplib
+                0x000029f8       0x1c e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                0x000029fc                __fp_mpack_finite
+                0x000029f8                __fp_mpack
+ .text.avr-libc.fplib
+                0x00002a14        0xe e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+                0x00002a14                __fp_norm2
+ .text.libgcc   0x00002a22       0x28 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x00002a22                __udivmodhi4
+ .text.libgcc   0x00002a4a       0x26 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                0x00002a4a                __divmodhi4
+                0x00002a4a                _div
+ .text.libgcc   0x00002a70        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00002a70        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00002a70                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002a70        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00002a70                exit
+                0x00002a70                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002a70        0x4 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002a74                _etext = .
+
+.data           0x00800060        0x0 load address 0x00002a74
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./MCAL/interrupt/interrupt_main.o
+ .data          0x00800060        0x0 ./MCAL/UART_DRIVER/USART_PROG.o
+ .data          0x00800060        0x0 ./MCAL/Timer_Driver/timer0_prog.o
+ .data          0x00800060        0x0 ./MCAL/I2C_DRIVER/I2C.o
+ .data          0x00800060        0x0 ./MCAL/DIO/DIO_prog.o
+ .data          0x00800060        0x0 ./HAL/MPU_INTERFACE/MPU.o
+ .data          0x00800060        0x0 ./HAL/LCD_interface/LCD_MAIN.o
+ .data          0x00800060        0x0 ./HAL/BT/Bluetooth.o
+ .data          0x00800060        0x0 ./HAL/BT/uart_main.o
+ .data          0x00800060        0x0 ./APP/MAIN.o
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(inverse.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(square.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800060                . = ALIGN (0x2)
+                0x00800060                _edata = .
+                0x00800060                PROVIDE (__data_end, .)
+
+.bss            0x00800060       0x1c
+                0x00800060                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00800060        0x0 ./MCAL/interrupt/interrupt_main.o
+ .bss           0x00800060        0x0 ./MCAL/UART_DRIVER/USART_PROG.o
+ .bss           0x00800060        0x0 ./MCAL/Timer_Driver/timer0_prog.o
+ .bss           0x00800060        0x0 ./MCAL/I2C_DRIVER/I2C.o
+ .bss           0x00800060        0x0 ./MCAL/DIO/DIO_prog.o
+ .bss           0x00800060        0x0 ./HAL/MPU_INTERFACE/MPU.o
+ .bss           0x00800060        0x0 ./HAL/LCD_interface/LCD_MAIN.o
+ .bss           0x00800060        0x0 ./HAL/BT/Bluetooth.o
+ .bss           0x00800060        0x0 ./HAL/BT/uart_main.o
+ .bss           0x00800060        0x0 ./APP/MAIN.o
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(inverse.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(square.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00800060        0x0 e:/embedded/eclipse/sdk_win_64/sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ *(.bss*)
+ .bss.gyroAngleX
+                0x00800060        0x4 ./HAL/MPU_INTERFACE/MPU.o
+ .bss.gyroAngleY
+                0x00800064        0x4 ./HAL/MPU_INTERFACE/MPU.o
+ .bss.yawAngle  0x00800068        0x4 ./HAL/MPU_INTERFACE/MPU.o
+ .bss.gyroAngleX
+                0x0080006c        0x4 ./APP/MAIN.o
+ .bss.gyroAngleY
+                0x00800070        0x4 ./APP/MAIN.o
+ .bss.yawAngle  0x00800074        0x4 ./APP/MAIN.o
+ *(COMMON)
+ COMMON         0x00800078        0x4 ./MCAL/Timer_Driver/timer0_prog.o
+                0x00800078                TIMER0_PF_C2C
+                0x0080007a                TIMER0_PF
+                0x0080007c                PROVIDE (__bss_end, .)
+                0x00002a74                __data_load_start = LOADADDR (.data)
+                0x00002a74                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080007c        0x0
+                0x0080007c                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080007c                PROVIDE (__noinit_end, .)
+                0x0080007c                _end = .
+                0x0080007c                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x34b0
+ *(.stab)
+ .stab          0x00000000      0x384 ./MCAL/interrupt/interrupt_main.o
+ .stab          0x00000384      0x414 ./MCAL/UART_DRIVER/USART_PROG.o
+                                0x420 (size before relaxing)
+ .stab          0x00000798      0x474 ./MCAL/Timer_Driver/timer0_prog.o
+                                0x480 (size before relaxing)
+ .stab          0x00000c0c      0x7c8 ./MCAL/I2C_DRIVER/I2C.o
+                                0x7d4 (size before relaxing)
+ .stab          0x000013d4      0x8dc ./MCAL/DIO/DIO_prog.o
+                                0xa74 (size before relaxing)
+ .stab          0x00001cb0      0x60c ./HAL/MPU_INTERFACE/MPU.o
+                                0x7a4 (size before relaxing)
+ .stab          0x000022bc      0x8ac ./HAL/LCD_interface/LCD_MAIN.o
+                                0xa44 (size before relaxing)
+ .stab          0x00002b68      0x1c8 ./HAL/BT/Bluetooth.o
+                                0x360 (size before relaxing)
+ .stab          0x00002d30      0x2b8 ./HAL/BT/uart_main.o
+                                0x444 (size before relaxing)
+ .stab          0x00002fe8      0x4c8 ./APP/MAIN.o
+                                0x660 (size before relaxing)
+
+.stabstr        0x00000000     0x1ae7
+ *(.stabstr)
+ .stabstr       0x00000000     0x1ae7 ./MCAL/interrupt/interrupt_main.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(NASR88.elf elf32-avr)
+LOAD linker stubs

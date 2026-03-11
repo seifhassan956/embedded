@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "freertos.h": "c",
+    "dio_int.h": "c",
+    "usart_header.h": "c",
+    "std_types.h": "c",
+    "freertosconfig.h": "c",
+    "clcd_config.h": "c",
+    "lcd_int.h": "c",
+    "semphr.h": "c",
+    "adc_header.h": "c",
+    "task.h": "c",
+    "queue.h": "c"
+  }
+}
